@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  <title>Yashvitha Task1 Loading Project </title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <header>
+        <div class="main">
+            <ul>
+                <li> <a href="#">Home</a></li>
+                     <li> <a href="#">About</a></li>
+                     <li> <a href="#">Services</a></li>
+                     <li class="active"><a href="#">Contact</a></li>
+                     <li class="active"><a href="#">Feedback</a></li>
+            </ul>
+        </div>
+        <div class="title">
+            <h1>Welcome to World Tour</h1>
+        </div>
+        <div class="button">
+            <a href="#" class="btn">Explore</a>
+            <a href="#" class="btn">Subscribe us</a>
+        </div>
+    </header> 
+    
+  </body>
+</html>
+
+
+
+
+
